@@ -1,0 +1,7 @@
+2023-08-06 02:11:07.852523 - Initialized conversion of CBT202
+2023-08-06 02:11:07.881714 - Received CBT.V505.FILE202.PDS from FILE202.XMI 
+2023-08-06 02:11:07.884480 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE202.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:11:07.885597 - Found $EXPLAIN.txt (text/plain) in CBT.V505.FILE202.PDS, moved to PDS/$EXPLAIN
+2023-08-06 02:11:07.886560 - Found @FILE202.txt (text/plain) in CBT.V505.FILE202.PDS, moved to PDS/@FILE202
+2023-08-06 02:11:07.887793 - Found JOBMESGS.txt (text/plain) in CBT.V505.FILE202.PDS, moved to PDS/JOBMESGS
+2023-08-06 02:11:07.887805 - Found SMFRECS.bin containing application/octet-stream, moved to PDS/SMFRECS
