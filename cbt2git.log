@@ -1,6 +1,6 @@
-2025-04-13 14:43:07.793407 - Received CBT.V508.FILE202.PDS from FILE202.XMI 
-2025-04-13 14:43:07.794132 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE202.PDS, moved to PDS/$$$#DATE
-2025-04-13 14:43:07.794226 - Found $EXPLAIN.txt (text/plain) in CBT.V508.FILE202.PDS, moved to PDS/$EXPLAIN
-2025-04-13 14:43:07.794300 - Found @FILE202.txt (text/plain) in CBT.V508.FILE202.PDS, moved to PDS/@FILE202
-2025-04-13 14:43:07.794402 - Found JOBMESGS.txt (text/plain) in CBT.V508.FILE202.PDS, moved to PDS/JOBMESGS
-2025-04-13 14:43:07.794468 - Found SMFRECS.bin (application/octet-stream) in CBT.V508.FILE202.PDS, moved to PDS/SMFRECS
+2025-04-13 17:30:42.210764 - Received CBT.V508.FILE202.PDS from FILE202.XMI 
+2025-04-13 17:30:42.211382 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE202.PDS, moved to PDS/$$$#DATE
+2025-04-13 17:30:42.211438 - Found $EXPLAIN.txt (text/plain) in CBT.V508.FILE202.PDS, moved to PDS/$EXPLAIN
+2025-04-13 17:30:42.211480 - Found @FILE202.txt (text/plain) in CBT.V508.FILE202.PDS, moved to PDS/@FILE202
+2025-04-13 17:30:42.211524 - Found JOBMESGS.txt (text/plain) in CBT.V508.FILE202.PDS, moved to PDS/JOBMESGS
+2025-04-13 17:30:42.211564 - Found SMFRECS.bin (application/octet-stream) in CBT.V508.FILE202.PDS, moved to PDS/SMFRECS
